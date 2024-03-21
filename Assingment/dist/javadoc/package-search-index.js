@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"assingment"},{"l":"assingment.backend.database"},{"l":"assingment.backend.interfaces"},{"l":"assingment.backend.model"},{"l":"assingment.backend.services"},{"l":"support_files"}];updateSearchResults();
